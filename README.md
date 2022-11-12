@@ -13,4 +13,4 @@ In this project, I performed the roles of a pen tester attacking a vulnerable sy
 **Notes**
 
 - This project was performed in an Azure Lab Services environment
-- Please see the presentation above for a full breakdown of the network, vulnerabilities discovered, and mitigation strategy recommendations.
+- Please see the [presentation](https://github.com/ynottruly/UCR-Cybersecurity-Project-2/blob/main/Project%202.pdf) above for a full breakdown of the network, vulnerabilities discovered, and mitigation strategy recommendations.
